@@ -1,0 +1,5 @@
+E:\OneDrive\Coding Projects\PurchasableRecipes\PurchasableRecipes\obj\Debug\PurchasableRecipes.csprojResolveAssemblyReference.cache
+E:\OneDrive\Coding Projects\PurchasableRecipes\PurchasableRecipes\bin\Debug\PurchasableRecipes.dll
+E:\OneDrive\Coding Projects\PurchasableRecipes\PurchasableRecipes\bin\Debug\PurchasableRecipes.pdb
+E:\OneDrive\Coding Projects\PurchasableRecipes\PurchasableRecipes\obj\Debug\PurchasableRecipes.dll
+E:\OneDrive\Coding Projects\PurchasableRecipes\PurchasableRecipes\obj\Debug\PurchasableRecipes.pdb
